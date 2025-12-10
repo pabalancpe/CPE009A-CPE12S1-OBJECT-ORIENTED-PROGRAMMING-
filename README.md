@@ -15,4 +15,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/4c966fcc-f816-4fcd-8872-9ca7dab4a687" />
+![Image](https://github.com/user-attachments/assets/af794c65-d2d7-4170-999f-e2bc812d6d72)
