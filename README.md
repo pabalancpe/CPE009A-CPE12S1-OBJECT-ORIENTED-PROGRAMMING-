@@ -1,9 +1,12 @@
 # CPE009A-CPE12S1-OBJECT-ORIENTED-PROGRAMMING-
-
 <h1 align="center">Hi 👋, I'm Hanz Rhayven M. Pabalan</h1>
 <h3 align="center">A passionate Student from Technological Institute of The Philippines</h3>
 
-- I’m currently working on **Phyton**
+- 🌱 I’m currently learning **phyton**
+
+- 💬 Ask me about **c++**
+
+- 📫 How to reach me **qhrpabalan@tip.edu.ph**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
