@@ -1,18 +1,36 @@
 # CPE009A-CPE12S1-OBJECT-ORIENTED-PROGRAMMING-
-<h1 align="center">Hi 👋, I'm Hanz Rhayven M. Pabalan</h1>
-<h3 align="center">A passionate Student from Technological Institute of The Philippines</h3>
+<h1>👋 Hi there</h1>
 
-- 🌱 I’m currently learning **phyton**
+<p>I'm <strong>Hanz Rhayven M. Pabalan</strong>, a beginner Python developer learning how to build real projects.</p>
 
-- 💬 Ask me about **c++**
+<h2>🐍 About Me</h2>
+<ul>
+  <li>🌱 Currently learning: <strong>Python</strong></li>
+  <li>🔭 Working on small Python scripts and beginner projects</li>
+  <li>🎯 Goal: Become confident in Python and automation</li>
+  <li>📘 Learning variables, loops, functions, OOP, and more</li>
+</ul>
 
-- 📫 How to reach me **qhrpabalan@tip.edu.ph**
+<h2>🔧 Tools & Technologies</h2>
+<ul>
+  <li><strong>Language:</strong> Python</li>
+  <li><strong>Tools:</strong> GitHub, VsCode</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2>📂 Current Projects</h2>
+<ul>
+  <li>Simple Python programs</li>
+  <li>Automation experiments</li>
+  <li>Logic practice problems</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2>📫 Contact</h2>
+<ul>
+  <li>Email: hanzpabalan5@gmail.com</li>
+  <li>GitHub: github.com/your-pabalancpe</li>
+</ul>
 
+<p>Thanks for visiting my profile! 🐍😄</p>
+
+---
 ![Image](https://github.com/user-attachments/assets/af794c65-d2d7-4170-999f-e2bc812d6d72)
